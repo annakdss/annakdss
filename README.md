@@ -1,38 +1,29 @@
-## Hello Devs!! Seja bem vindo (a) ao meu GitHub
-Meu nome é Anna Karolina, tenho 24 anos e sou desenvolvedora Front-End
+## Hello Devs!! Welcome to my GitHub profile where I will showcare my projects :)
+My name is Anna Karolina and my nickname is Karol. I'm 24 years old, and Front-End developer. 
 
 ## ABOUT ME 
 
-🔭 Transição para Desenvolvimento Front-End
-Após 4 anos de experiência na área Comercial, estou em transição de carreira, pela qual pude descobrir minha paixão: desenvolvimento de software.  
+:pushpin: Career transition in Front-End Developer:  
+After four years of experience in the commercial sales field, I am transitioning to a new career where I discovered my true passion: software development.  
 
-⚡Formação em andamento: 
 
-Análise e Desenvolvimento de Sistemas + outras formações através da Alura.
+📚 Degree in progress: 
 
-🌱 Principais tecnologias: 
+Systems Analysis and Development + completed training courses through Alura 🚀
 
-HTML5 | CSS3 | JavaScript | Angular | ReactJs
+
+💻 Key technologies: 
+
+HTML5 | CSS3 | JavaScript | Angular | ReactJs | NodeJs | Python
+
 
 ## Tools and technologies I am improving my skills in
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-How to reach me:    
+## How to reach me:    
 
-<div> <a href="https://instagram.com/_a.karolinaa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<a href = "mailto:anna.sampaio01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/anna-karolina-51b8a3214" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://instagram.com/_a.karolinaa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:anna.sampaio01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/anna-karolina-51b8a3214" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
